@@ -1,0 +1,27 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #f8f9fa;
+  }
+  
+  .construction-container {
+    text-align: center;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 30px;
+  }
+  
+  .construction-container h1 {
+    font-size: 48px;
+    color: #103153;
+  }
+  
+  .construction-container p {
+    font-size: 20px;
+    color: #6c757d;
+  }
+  
